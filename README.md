@@ -27,6 +27,8 @@ SZU-ITer是一个为大家收集计算机的学习资源、知识笔记、求职
 
 2. Outstanding Contributor： [frankcbliu(欢迎关注公众号：编程充电宝)](https://github.com/frankcbliu)
 
+> 参与贡献，就可以join SZU-ITer~
+
 ## 六、少侠我们需要你的相助
 
 1. 对github熟悉的欢迎大家pr补充，对github比较不熟悉的可以直接在issue中提问或者提供资源，有空的时候我再整理。
